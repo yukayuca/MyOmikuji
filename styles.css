@@ -1,0 +1,15 @@
+#btn {
+    width: 200px; 
+    height: 200px; 
+}
+
+
+#btn: hover {
+    opacity: 0.9; 
+    box-shadow: 0 10px 0 #d1483e;
+}
+
+#btn: active{
+    box-shadow: 0 5px 0 3d1483e; 
+    margin-top: 35px; 
+}
